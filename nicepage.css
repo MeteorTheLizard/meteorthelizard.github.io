@@ -35424,7 +35424,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-custom-html-1 {
   min-height: 21px;
-  height: auto;
   margin: -28px 385px 36px 681px;
 }
 @media (max-width: 1199px) {
@@ -35443,6 +35442,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-custom-html-1 {
+    height: auto;
     margin-right: 280px;
     margin-bottom: 36px;
     margin-left: 586px;
