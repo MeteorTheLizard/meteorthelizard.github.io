@@ -91,7 +91,21 @@
             <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
           </div>
         </nav>
-        <img class="u-hidden-xs u-image u-image-round u-preserve-proportions u-radius-10 u-image-2" src="images/pp_donate.png" alt="" data-image-width="74" data-image-height="21" data-href="https://www.paypal.com/donate/?hosted_button_id=SZQDAHFA8YQSW">
+        <div class="donate-button u-align-right u-clearfix u-custom-html u-hidden-xs u-custom-html-1">
+          <div id="donate-button-container">
+            <div id="donate-button"></div>
+            <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+            <script> PayPal.Donation.Button({
+env:'production',
+hosted_button_id:'SZQDAHFA8YQSW',
+image: {
+src:'https://meteorthelizard.com/images/pp_donate.png',
+alt:'Donate with PayPal button',
+title:'PayPal - The safer, easier way to pay online!',
+}
+}).render('#donate-button'); </script>
+          </div>
+        </div>
       </div></header>
     <section class="u-align-center u-clearfix u-gradient u-section-1" id="carousel_22c0">
       <div class="u-clearfix u-sheet u-sheet-1">
