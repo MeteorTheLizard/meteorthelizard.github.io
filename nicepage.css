@@ -35446,9 +35446,9 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-custom-html-1 {
     height: auto;
-    margin-right: 280px;
+    margin-right: 279px;
     margin-bottom: 36px;
-    margin-left: 586px;
+    margin-left: 587px;
   }
 }
 @media (max-width: 991px) {
@@ -35525,7 +35525,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 150px;
+  min-height: 149px;
 }
 
 .u-footer .u-image-1 {
@@ -35598,7 +35598,7 @@ a.u-link.u-text-hover-grey-90:hover {
   font-weight: 700;
   text-shadow: 2px 2px 8px rgba(0,0,0,1);
   font-size: 1rem;
-  margin: 20px 537px 36px 129px;
+  margin: 20px 417px 35px 129px;
 }
 @media (max-width: 1199px) {
   .u-footer .u-image-1 {
@@ -35613,8 +35613,8 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-text-1 {
     width: auto;
-    margin-right: 335px;
-    margin-bottom: 35px;
+    margin-right: 217px;
+    margin-bottom: 34px;
     margin-left: 129px;
   }
 }
@@ -35630,20 +35630,12 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-1 {
-    margin: 44px 65px 28px 171px;
+    margin: 37px 10px 35px 109px;
   }
 }
 @media (max-width: 767px) {
-  .u-footer .u-sheet-1 {
-    min-height: 152px;
-  }
-
-  .u-footer .u-image-1 {
-    margin-top: 22px;
-  }
-
   .u-footer .u-social-icons-1 {
-    margin-top: -111px;
+    margin-top: -109px;
     margin-right: 31px;
   }
 
@@ -35653,22 +35645,22 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-1 {
-    margin: 26px 63px 21px 160px;
+    margin: 20px 32px 24px 140px;
   }
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 148px;
+    min-height: 165px;
   }
 
   .u-footer .u-image-1 {
     width: 53px;
     height: 53px;
-    margin-top: 74px;
+    margin-top: 85px;
   }
 
   .u-footer .u-social-icons-1 {
-    margin-top: -107px;
+    margin-top: -118px;
     margin-right: 20px;
   }
 
@@ -35679,7 +35671,9 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-text-1 {
     font-size: 0.875rem;
-    margin: 26px 0 25px 65px;
+    margin-top: 26px;
+    margin-right: 0;
+    margin-left: 65px;
   }
 }
 

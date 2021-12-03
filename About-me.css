@@ -36,7 +36,7 @@
 .u-section-1 .u-text-1 {
   font-size: 1.25rem;
   line-height: 1.8;
-  text-shadow: -2px 2px 8px rgba(26,26,26,1);
+  text-shadow: 2px 2px 8px rgba(0,0,0,1);
   margin: 10px 0 0 60px;
 }
 
@@ -262,7 +262,6 @@
   .u-section-2 .u-repeater-1 {
     grid-template-columns: repeat(3, calc(33.3333% - 13.3333px));
     min-height: 320px;
-    grid-auto-columns: calc(33.3333% - 13.3333px);
     grid-gap: 20px;
   }
 
@@ -298,7 +297,6 @@
   .u-section-2 .u-repeater-1 {
     grid-template-columns: repeat(1, 100%);
     min-height: 735px;
-    grid-auto-columns: 100%;
   }
 }
 
