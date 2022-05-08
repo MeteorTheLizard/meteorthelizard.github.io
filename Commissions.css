@@ -105,11 +105,11 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 511px;
+    min-height: 639px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 20px;
+    width: auto;
   }
 
   .u-section-1 .u-text-4 {
