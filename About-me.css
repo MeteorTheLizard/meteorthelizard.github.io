@@ -154,14 +154,14 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 415px;
+  min-height: 418px;
 }
 
 .u-section-2 .u-group-1 {
   min-height: 415px;
   animation-duration: 500ms;
   width: 1140px;
-  margin: 0 0 2px;
+  margin: 0 0 5px;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -335,12 +335,12 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1176px;
+    min-height: 1179px;
   }
 
   .u-section-2 .u-group-1 {
     width: 340px;
-    margin-bottom: -31px;
+    margin-bottom: -28px;
   }
 
   .u-section-2 .u-list-1 {
