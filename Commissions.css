@@ -3,13 +3,13 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 542px;
+  min-height: 571px;
 }
 
 .u-section-1 .u-text-1 {
   font-weight: 700;
   font-size: 0.75rem;
-  margin: 0 20px;
+  margin: 30px 20px 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -27,7 +27,7 @@
 .u-section-1 .u-text-4 {
   font-size: 1.125rem;
   text-shadow: 2px 2px 8px rgba(0,0,0,1);
-  margin: 39px 407px 31px 20px;
+  margin: 39px 407px 30px 20px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -72,7 +72,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 551px;
+    min-height: 541px;
   }
 
   .u-section-1 .u-text-1 {
@@ -92,7 +92,6 @@
 
   .u-section-1 .u-text-4 {
     margin-right: 227px;
-    margin-bottom: 40px;
     margin-left: 0;
   }
 }
